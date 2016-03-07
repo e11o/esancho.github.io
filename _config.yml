@@ -27,7 +27,7 @@ harmony:
     url: http://estebansancho.com
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: 
+  google_analytics_key: UA-39952722-2
 
   # Profile links, leave blank to ignore
   social: 
