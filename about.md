@@ -4,24 +4,21 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+I am Esteban Sancho, a software geek born in Argentina but now based on Washington DC. 
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+I work for [Globant][globant] as Technical Director and Technology Evangelist, where I get the chance to work with
+large distributed agile teams for cool (and demanding) clients.
+
+Some of my favorite discussion topics are software craftsmanship, functional programming, continuous delivery, content management and agile at scale.
+
+I also like cycling, watchmaking, wrenching bikes and cars, and playing pool.
 
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+Find me on [Google+][google] / [Github][github] / [Twitter][Twitter].
 
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[globant]: http://www.globant.com
+[github]: https://github.com/esancho
+[google]: https://plus.google.com/+EstebanSancho
+[twitter]: https://twitter.com/esteban_sancho
